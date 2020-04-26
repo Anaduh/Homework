@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+LA
+LA
+LA
+LA
+=======
 Merry Christmas!
 And
 Happy New Year!
+>>>>>>> Main/master
